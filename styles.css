@@ -1,2 +1,48 @@
 
-               
+body {
+    background-color: rgb(0, 0, 0);
+}
+header{
+    background-color: rgba(0, 140, 255, 0.582);
+}
+
+
+h1 {
+    color: rgb(154, 63, 240);
+}
+
+p {
+    color: rgb(233, 248, 16);
+}
+
+div {
+    width: 20em;
+}
+
+.january {
+}
+
+.week1 div {
+    border: 1px rgb(66, 235, 44) solid;
+    border-radius: 15px;
+}
+
+.day1 {
+}
+
+.day2 {}
+
+.day3 {}
+
+.day4 {}
+
+.day5 {}
+
+a {
+    color: rgb(53, 191, 245);
+}
+
+ul {
+    list-style-image: url('./planet.jpg');
+    margin-left: 50px;
+}
